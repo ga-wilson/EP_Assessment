@@ -1,0 +1,10 @@
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\bin\Debug\Enclara Pharmacia Assessment.exe.config
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\bin\Debug\Enclara Pharmacia Assessment.exe
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\bin\Debug\Enclara Pharmacia Assessment.pdb
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara Pharmacia Assessment.csprojAssemblyReference.cache
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara_Pharmacia_Assessment.Properties.Resources.resources
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara Pharmacia Assessment.csproj.GenerateResource.cache
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara Pharmacia Assessment.csproj.CoreCompileInputs.cache
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara Pharmacia Assessment.exe
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara Pharmacia Assessment.pdb
+C:\Users\grwil\source\repos\Enclara Pharmacia Assessment Sol\Enclara Pharmacia Assessment\obj\Debug\Enclara_Pharmacia_Assessment.EP_Assessment.resources
